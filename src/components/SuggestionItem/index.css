@@ -1,0 +1,17 @@
+.suggestions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.each-suggestion {
+  font-size: 18px;
+  color: #475569;
+  font-family: 'Roboto';
+  align-items: flex-start;
+}
+.arrow-image {
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+  align-items: flex-end;
+}
